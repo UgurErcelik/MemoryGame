@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Memory Tiles
+GenericName=Memory Tiles
+Comment=start Memory Game
+Categories=Game;
+Exec=java -jar /home/reprise/Dropbox/Programming/01\ Java/MemoryGame/dist/MemoryGame.jar
+Terminal=false
+StartupNotify=false
+Type=Application
+Icon=/home/reprise/Dropbox/Programming/01 Java/MemoryGame/src/memorygame/icon/mgico.png
+Name[en_US]=Memory Tiles
+Comment[en_US.UTF-8]=Play MemoryTiles game :)
